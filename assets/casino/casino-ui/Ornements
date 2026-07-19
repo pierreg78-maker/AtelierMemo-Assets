@@ -1,1 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ornement de coin doré Atelier Mémo</title>
+  <desc id="desc">Fioriture de coin Belle Époque dorée sur fond transparent.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3a6"/>
+      <stop offset="18%" stop-color="#f6d56a"/>
+      <stop offset="48%" stop-color="#c9921f"/>
+      <stop offset="72%" stop-color="#8b5a08"/>
+      <stop offset="100%" stop-color="#f1c85a"/>
+    </linearGradient>
+    <linearGradient id="goldSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a5a08"/>
+      <stop offset="38%" stop-color="#e7bd4f"/>
+      <stop offset="68%" stop-color="#fff0a1"/>
+      <stop offset="100%" stop-color="#a66c0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2.4" flood-color="#2c1600" flood-opacity=".75"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round" filter="url(#shadow)">
+    <path d="M18 232V46Q18 18 46 18H232" stroke-width="7"/>
+    <path d="M29 232V55Q29 29 55 29H232" stroke-width="2.5" opacity=".95"/>
+    <path d="M42 198C61 178 46 154 61 135C76 116 103 119 108 94C112 76 94 64 76 72C59 80 64 101 80 102C92 103 98 92 93 84" stroke-width="7"/>
+    <path d="M50 180C70 170 75 153 71 139C57 146 48 160 50 180Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <path d="M66 132C84 126 95 114 96 98C79 101 67 112 66 132Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <path d="M50 112C63 99 64 84 57 72C46 82 43 96 50 112Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <path d="M198 42C178 61 154 46 135 61C116 76 119 103 94 108C76 112 64 94 72 76C80 59 101 64 102 80C103 92 92 98 84 93" stroke-width="7"/>
+    <path d="M180 50C170 70 153 75 139 71C146 57 160 48 180 50Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <path d="M132 66C126 84 114 95 98 96C101 79 112 67 132 66Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <path d="M112 50C99 63 84 64 72 57C82 46 96 43 112 50Z" fill="url(#goldSoft)" stroke-width="2"/>
+    <circle cx="48" cy="48" r="14" fill="url(#goldSoft)" stroke-width="2.5"/>
+    <path d="M48 31C53 37 59 40 66 41C60 46 58 52 59 59C53 55 47 55 41 59C42 52 40 46 34 41C41 40 45 37 48 31Z" fill="#f8db78" stroke-width="1.5"/>
+    <path d="M83 132C105 131 117 143 115 158C113 171 99 176 90 168C82 161 87 151 95 151C101 151 104 157 100 161" stroke-width="4"/>
+    <path d="M132 83C131 105 143 117 158 115C171 113 176 99 168 90C161 82 151 87 151 95C151 101 157 104 161 100" stroke-width="4"/>
+    <path d="M35 214C53 200 73 199 89 208C99 214 110 216 121 212" stroke-width="3"/>
+    <path d="M214 35C200 53 199 73 208 89C214 99 216 110 212 121" stroke-width="3"/>
+    <path d="M28 88C37 85 42 79 43 70" stroke-width="3"/>
+    <path d="M88 28C85 37 79 42 70 43" stroke-width="3"/>
+    <circle cx="25" cy="25" r="4.5" fill="#fff1a0" stroke-width="1.5" filter="url(#glow)"/>
+  </g>
+</svg>
 
