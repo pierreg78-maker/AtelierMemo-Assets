@@ -5,4 +5,4 @@ gain-01.mp3 (Cha_Ching.mp3 by Lucish_ -- https://freesound.org/s/554841/ -- Lice
 jackpot.mp3 (Level-Up Sound FX by elmasmalo1 -- https://freesound.org/s/350841/ -- License: Attribution 3.0)
 bouton.mp3 (Retro_Button_3 by Xiko__ -- https://freesound.org/s/711250/ -- License: Attribution 4.0)
 oiseaux.mp3 (Wetland Birds at Fish Ponds - Barycz Valley Field Recording by tom_woysky -- https://freesound.org/s/863500/ -- License: Attribution NonCommercial      4.0)
-
+celtic_loop.mp3 (généré par IA - Manus)
