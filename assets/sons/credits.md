@@ -7,3 +7,4 @@ bouton.mp3 (Retro_Button_3 by Xiko__ -- https://freesound.org/s/711250/ -- Licen
 oiseaux.mp3 (Wetland Birds at Fish Ponds - Barycz Valley Field Recording by tom_woysky -- https://freesound.org/s/863500/ -- License: Attribution NonCommercial      4.0)
 celtic_loop.mp3 (généré par IA - Manus)
 Bike rear wheel spinning by laspaziale -- https://freesound.org/s/380788/ -- License: Attribution 4.0
+Huge Applause.wav by kwahmah_02 -- https://freesound.org/s/324323/ -- License: Attribution 3.0
